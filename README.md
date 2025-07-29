@@ -6,7 +6,7 @@
 </p>
 
 ---
-### 🧰 Tech & Tools I Work With
+### 🧰Tech & Tools I Work With
 
 - **Docker Media Stack**  
   qBittorrent, VueTorrent, Sonarr, Radarr, Homepage Dashboard – all in one compose
@@ -56,5 +56,4 @@
 </p>
 
 ---
-
 > *“Creativity is coding your way through chaos and branding your voice into memory.”*
