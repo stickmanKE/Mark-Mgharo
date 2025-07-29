@@ -6,3 +6,21 @@
 </p>
 
 ---
+### 🧰 Tech & Tools I Work With
+
+- **Docker Media Stack**  
+  qBittorrent, VueTorrent, Sonarr, Radarr, Homepage Dashboard – all in one compose
+
+- **Reverse SSH Tunnels**  
+  Using free Oracle VPS to port-forward
+
+- **Custom MikroTik Hotspot Login**  
+  Styled login portal with redirects & images for public WiFi
+
+- **VPN (Headscale)**  
+  Secure self-hosted access to all my Pi services remotely
+
+- **WhatsApp Chatbots**  
+  Business assistant flows for service businesses
+
+---
