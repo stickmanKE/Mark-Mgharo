@@ -24,3 +24,33 @@
   Business assistant flows for service businesses
 
 ---
+## 🧠 Skills & Tools
+
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![MikroTik](https://img.shields.io/badge/-MikroTik-E31837?style=for-the-badge&logo=router&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stickmanKE&show_icons=true&theme=radical" alt="Mark's GitHub stats" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=stickmanKE&theme=radical" alt="GitHub Streaks" width="450"/>
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="mailto:bunifulab@gmail.com"><img src="https://img.shields.io/badge/Email-bunifulab@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.tiktok.com/@bunifulab"><img src="https://img.shields.io/badge/TikTok-@bunifulab-black?style=for-the-badge&logo=tiktok"></a>
+  <a href="https://github.com/stickmanKE"><img src="https://img.shields.io/badge/GitHub-stickmanKE-gray?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+> *“Creativity is coding your way through chaos and branding your voice into memory.”*
