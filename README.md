@@ -51,6 +51,10 @@
   <a href="https://github.com/stickmanKE"><img src="https://img.shields.io/badge/GitHub-stickmanKE-gray?style=for-the-badge&logo=github"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stickmanKE&label=Profile+Views&color=yellow&style=flat-square" alt="stickmanKE" />
+</p>
+
 ---
 
 > *“Creativity is coding your way through chaos and branding your voice into memory.”*
