@@ -1,67 +1,8 @@
-# 👋🏾 Hi, I'm Mark Mgharo (aka stickmanKE)
+<h1 align="center">Hey there 👋🏾, I'm Mark Mgharo</h1>
+<h3 align="center">Building brands, bots & systems from the Kenyan coast 🇰🇪</h3>
 
-🚀 I’m a creative techie building tools, brands, and digital experiences from the Kenyan coast.  
-💡 Passionate about self-hosting, automation, branding, and community-powered innovation.
-
----
-
-## 🧰 What I Build & Explore
-
-### 🧠 Technical Projects
-- 🧱 **Docker Media Stack on Raspberry Pi**  
-  - Self-hosted apps: qBittorrent + VueTorrent UI, Radarr, Sonarr, Homepage Dashboard
-  - Unified `docker-compose.yml` setup for easy maintenance
-- 🔁 **Reverse SSH Tunnels** using Oracle Cloud for proper torrent seeding & access
-- 🌐 **Custom MikroTik Hotspot Login Pages** (branding, auto-redirect, responsive)
-- 🛡 **Headscale VPN Setup** on Raspberry Pi for secure remote access
-- 📱 **WhatsApp Business Chatbots** for salons and small businesses
-- 🧩 **Homepage Dashboard Customization** with widgets and local services
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=4AF8F7&center=true&vCenter=true&width=500&lines=Techie+%F0%9F%94%A5;Brand+builder+%F0%9F%93%88;Dockerized+everything+%F0%9F%A7%BF;Creative+chaos+engineer+%F0%9F%A7%A0;Coastal+vibes+%F0%9F%8F%9D%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 ---
-
-## 🏢 Business Ventures
-
-- **Kababa Systems** – Branding, web development, and signage solutions
-- **Star Highrise Homes** – Airbnb unit management at Buxton Point, Mombasa
-- **Ibiza Fries n Fast Foods** – Kenyan-themed fast food franchise in development
-- **Fiyameta Global Solutions** – Public relations and media services
-
----
-
-## 🎨 Creative Works
-
-- 🎤 **Ukoo Flani** – Hip-hop group branding & custom yellow-themed ID cards
-- 👕 **WANTAM T-shirt Campaign** – Kenyan election art for peace & unity
-- 📚 **Poetry Book Designs** – Covers for *“When the Enemy is You”* and more
-
----
-
-## 🌍 Blog & Writing
-
-- ✍🏾 Building a bilingual (Swahili-English) blog focused on politics, history, and travel in Coastal Kenya
-- 🧭 Researching plugins and tools for smooth translation and accessibility
-
----
-
-## 🛠 Tech & Tools
-
-| Category           | Tools / Stack                              |
-|--------------------|---------------------------------------------|
-| DevOps & Hosting   | Docker, Raspberry Pi, Oracle Cloud, MikroTik |
-| Automation         | WhatsApp API, Python scripts                |
-| Web Tools          | HTML/CSS, VueTorrent, Homepage Dashboard   |
-| Creative Design    | Illustrator, Canva                          |
-| Business Insight   | Data analytics for decision-making         |
-
----
-
-## 🔗 Connect With Me
-
-- 📧 **Email**: [bunifulab@gmail.com](mailto:bunifulab@gmail.com)
-- 🎵 **TikTok**: [@bunifulab](https://www.tiktok.com/@bunifulab)
-- 💼 GitHub: [@stickmanKE](https://github.com/stickmanKE)
-
----
-
-> "Creativity is coding your way through chaos and branding your voice into memory."
-
